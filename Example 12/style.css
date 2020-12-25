@@ -1,0 +1,12 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+#main
+{
+    background: url(image/pexels-freestocksorg-96380.jpg);
+    background-position: cover;
+    width: 100vw;
+    height: 100vh;
+}
