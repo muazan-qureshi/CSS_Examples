@@ -1,0 +1,23 @@
+#button
+{
+    border: 1px solid #EE67FF;
+    color: #EE67FF;
+}
+#button:hover
+{
+    background-color: #EE67FF;
+    color: white;
+}
+body
+{
+    padding: 0;
+    margin: 0;
+}
+.bg-color-1
+{
+    background-color: #4255A4;
+}
+.bg-color-2
+{
+    background-color: #EF6CFF;
+}
